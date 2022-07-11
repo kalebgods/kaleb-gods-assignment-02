@@ -20,7 +20,7 @@ function sumOfNumbers(arrayOfNumbers) {
     sum += item;
   });
   console.log(sum);
-  console.log(arrayOfNumbers);
+  // console.log(arrayOfNumbers);
     return arrayOfNumbers.length;
 }
 assignment.sumOfNumbers = sumOfNumbers;
@@ -46,7 +46,7 @@ function countEvenNumbers(arrayOfNumbers) {
     sum += item;
   });
   console.log(sum);
-  console.log(arrayOfNumbers);
+  // console.log(arrayOfNumbers);
   
     return arrayOfNumbers.length;
 }
